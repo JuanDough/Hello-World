@@ -8,8 +8,6 @@ import java.util.Scanner;
  * guess the number randomly picked by the computer.
  * For each guess tell the user if the 
  * guess is too high, low or correct.
- * 
- * @author http://learn-java-by-example.com
  *
  */
  
